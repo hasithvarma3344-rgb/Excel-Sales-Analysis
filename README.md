@@ -1,51 +1,73 @@
-# Online Retail Sales Analysis Using Excel
+# 📊 Online Retail Sales Analysis Using Microsoft Excel
 
-## Project Overview
-This is my beginner-level Data Analytics project using Microsoft Excel. The project focuses on analyzing online retail sales data to identify sales trends, top-selling products, and country-wise sales performance.
+## 📌 Project Overview
 
-## Objectives
-- Analyze total sales across different countries.
-- Understand monthly sales trends.
-- Identify the top 10 products based on sales.
-- Summarize sales data using PivotTables and charts.
+This project focuses on analyzing online retail sales data using Microsoft Excel. The goal is to understand sales performance across countries, identify monthly sales trends, and find the top-performing products using PivotTables, PivotCharts, sorting, and filtering.
 
-## Tools Used
+This is my beginner-level Data Analytics portfolio project, created to strengthen my practical Excel and data visualization skills.
+
+## 🎯 Project Objectives
+
+- Analyze sales performance across different countries.
+- Identify monthly sales trends.
+- Find the top 10 products by sales.
+- Summarize sales data using PivotTables.
+- Present insights through clear and meaningful charts.
+
+## 🛠️ Tools and Skills Used
+
 - Microsoft Excel
-- PivotTables
-- PivotCharts
+- PivotTables and PivotCharts
 - Data Sorting and Filtering
+- Monthly Date Grouping
+- Sales Analysis
 - Data Visualization
 
-## Project Analysis
+## 📈 Project Analysis
 
-### 1. Country Sales Analysis
-Analyzed sales by country to understand which countries contributed the most to total revenue.
+### 1. Country-wise Sales Analysis
+
+Analyzed sales across countries and created a horizontal bar chart to compare country-level sales performance. The analysis focuses on the top 10 countries by sales.
 
 ### 2. Monthly Sales Trend
-Created a monthly sales summary and line chart to observe changes in sales throughout the year.
+
+Grouped transaction dates by month and created a line chart to visualize monthly sales trends and compare performance across the year.
 
 ### 3. Top 10 Products by Sales
-Sorted product sales from highest to lowest and created a column chart to identify the products with the highest sales.
 
-## Key Findings
-- The United Kingdom recorded the highest country-wise sales in the dataset.
-- November had the highest monthly sales among the months shown.
-- DOTCOM POSTAGE was the highest-selling item in the Top 10 Products analysis.
+Sorted products from highest to lowest sales and created a column chart to highlight the top 10 products in the analysis.
 
-## Files Included
-- `Online_Retail_Project.xlsx` — Excel workbook containing the original dataset and analysis worksheets.
+## 🔍 Key Findings
 
+- The United Kingdom recorded the highest country-wise sales in the analysis.
+- November showed the highest monthly sales in the monthly trend analysis.
+- DOTCOM POSTAGE appeared at the top of the Top 10 Products by Sales analysis.
 
-## What I Learned
+*Note: Findings reflect the current workbook analysis. Results depend on the calculations and filters applied in Excel.*
+
+## 📂 Project Files
+
+- **Online Retail Sales Analysis Screenshots:** Visuals of the three Excel analyses are available in this repository.
+- **Excel Workbook:** [Click here to view or download the workbook](https://docs.google.com/spreadsheets/d/1HL_HTlgeBnXOs-ZGZkwZ1mcIdzob0G96/edit?gid=470200079#gid=470200079)
+
+The workbook link opens the file shared through Google Drive.
+
+## 📚 What I Learned
+
 - Creating and analyzing PivotTables.
-- Grouping dates by month.
-- Creating PivotCharts.
-- Sorting sales values from largest to smallest.
-- Presenting data insights through charts.
+- Grouping transaction dates by month.
+- Sorting and filtering sales data.
+- Building PivotCharts for different analysis needs.
+- Presenting business insights through data visualization.
 
-## Conclusion
-This project helped me practice Excel-based data analysis and visualization. It is my first step toward developing my skills in Data Analytics and Business Analytics.
+## ✅ Conclusion
+
+This project gave me hands-on practice in Excel-based data analysis and visualization. It is an important first step in my journey toward developing stronger Data Analytics and Business Analytics skills.
+
+I plan to build on this foundation by learning SQL, Power BI, and Python and applying them to future projects.
 
 ---
+
 **Project Type:** Beginner Data Analytics Project  
-**Tool:** Microsoft Excel
+**Primary Tool:** Microsoft Excel  
+**Focus Areas:** Sales Analysis, PivotTables, Data Visualization
