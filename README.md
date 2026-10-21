@@ -34,7 +34,7 @@ Sorted product sales from highest to lowest and created a column chart to identi
 
 ## Files Included
 - `Online_Retail_Project.xlsx` — Excel workbook containing the original dataset and analysis worksheets.
-- `Screenshots/` — Screenshots of the three analyses.
+
 
 ## What I Learned
 - Creating and analyzing PivotTables.
